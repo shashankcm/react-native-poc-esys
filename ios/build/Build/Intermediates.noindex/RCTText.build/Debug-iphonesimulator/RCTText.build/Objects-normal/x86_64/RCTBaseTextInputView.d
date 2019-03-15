@@ -1,0 +1,36 @@
+dependencies: \
+  /React-Native-Work/ARWorksPOC/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputView.m \
+  /React-Native-Work/ARWorksPOC/node_modules/react-native/Libraries/Text/TextInput/RCTBaseTextInputView.h \
+  /React-Native-Work/ARWorksPOC/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTView.h \
+  /React-Native-Work/ARWorksPOC/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /React-Native-Work/ARWorksPOC/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /React-Native-Work/ARWorksPOC/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /React-Native-Work/ARWorksPOC/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputDelegate.h \
+  /React-Native-Work/ARWorksPOC/node_modules/react-native/Libraries/Text/TextInput/RCTBackedTextInputViewProtocol.h \
+  /React-Native-Work/ARWorksPOC/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAccessibilityManager.h \
+  /React-Native-Work/ARWorksPOC/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /React-Native-Work/ARWorksPOC/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /React-Native-Work/ARWorksPOC/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /React-Native-Work/ARWorksPOC/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /React-Native-Work/ARWorksPOC/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /React-Native-Work/ARWorksPOC/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /React-Native-Work/ARWorksPOC/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /React-Native-Work/ARWorksPOC/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /React-Native-Work/ARWorksPOC/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /React-Native-Work/ARWorksPOC/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /React-Native-Work/ARWorksPOC/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /React-Native-Work/ARWorksPOC/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /React-Native-Work/ARWorksPOC/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /React-Native-Work/ARWorksPOC/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /React-Native-Work/ARWorksPOC/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /React-Native-Work/ARWorksPOC/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /React-Native-Work/ARWorksPOC/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /React-Native-Work/ARWorksPOC/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManager.h \
+  /React-Native-Work/ARWorksPOC/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /React-Native-Work/ARWorksPOC/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /React-Native-Work/ARWorksPOC/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /React-Native-Work/ARWorksPOC/node_modules/react-native/Libraries/Text/TextInput/RCTInputAccessoryView.h \
+  /React-Native-Work/ARWorksPOC/node_modules/react-native/Libraries/Text/TextInput/RCTInputAccessoryViewContent.h \
+  /React-Native-Work/ARWorksPOC/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
+  /React-Native-Work/ARWorksPOC/node_modules/react-native/Libraries/Text/RCTTextTransform.h \
+  /React-Native-Work/ARWorksPOC/node_modules/react-native/Libraries/Text/TextInput/RCTTextSelection.h

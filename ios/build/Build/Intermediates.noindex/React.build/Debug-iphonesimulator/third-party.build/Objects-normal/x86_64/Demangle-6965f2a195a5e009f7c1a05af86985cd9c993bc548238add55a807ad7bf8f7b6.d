@@ -1,0 +1,24 @@
+dependencies: \
+  /React-Native-Work/ARWorksPOC/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Demangle.cpp \
+  /React-Native-Work/ARWorksPOC/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Demangle.h \
+  /React-Native-Work/ARWorksPOC/node_modules/react-native/third-party/folly-2018.10.22.00/folly/FBString.h \
+  /React-Native-Work/ARWorksPOC/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CppAttributes.h \
+  /React-Native-Work/ARWorksPOC/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Portability.h \
+  /React-Native-Work/ARWorksPOC/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Config.h \
+  /React-Native-Work/ARWorksPOC/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CPortability.h \
+  /React-Native-Work/ARWorksPOC/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Traits.h \
+  /React-Native-Work/ARWorksPOC/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/Hash.h \
+  /React-Native-Work/ARWorksPOC/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Utility.h \
+  /React-Native-Work/ARWorksPOC/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/ApplyTuple.h \
+  /React-Native-Work/ARWorksPOC/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/Invoke.h \
+  /React-Native-Work/ARWorksPOC/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Preprocessor.h \
+  /React-Native-Work/ARWorksPOC/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/SpookyHashV1.h \
+  /React-Native-Work/ARWorksPOC/node_modules/react-native/third-party/folly-2018.10.22.00/folly/hash/SpookyHashV2.h \
+  /React-Native-Work/ARWorksPOC/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Bits.h \
+  /React-Native-Work/ARWorksPOC/node_modules/react-native/third-party/folly-2018.10.22.00/folly/ConstexprMath.h \
+  /React-Native-Work/ARWorksPOC/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Assume.h \
+  /React-Native-Work/ARWorksPOC/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Builtins.h \
+  /React-Native-Work/ARWorksPOC/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Exception.h \
+  /React-Native-Work/ARWorksPOC/node_modules/react-native/third-party/folly-2018.10.22.00/folly/memory/Malloc.h \
+  /React-Native-Work/ARWorksPOC/node_modules/react-native/third-party/folly-2018.10.22.00/folly/memory/detail/MallocImpl.h \
+  /React-Native-Work/ARWorksPOC/node_modules/react-native/third-party/folly-2018.10.22.00/folly/detail/Demangle.h

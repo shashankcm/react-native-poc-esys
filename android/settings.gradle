@@ -1,0 +1,3 @@
+rootProject.name = 'ARWorksPOC'
+
+include ':app'

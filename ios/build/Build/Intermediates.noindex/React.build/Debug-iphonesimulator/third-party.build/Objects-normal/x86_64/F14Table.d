@@ -1,0 +1,26 @@
+dependencies: \
+  /React-Native-Work/ARWorksPOC/node_modules/react-native/third-party/folly-2018.10.22.00/folly/container/detail/F14Table.cpp \
+  /React-Native-Work/ARWorksPOC/node_modules/react-native/third-party/folly-2018.10.22.00/folly/container/detail/F14Table.h \
+  /React-Native-Work/ARWorksPOC/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Bits.h \
+  /React-Native-Work/ARWorksPOC/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Bits.h \
+  /React-Native-Work/ARWorksPOC/node_modules/react-native/third-party/folly-2018.10.22.00/folly/ConstexprMath.h \
+  /React-Native-Work/ARWorksPOC/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Portability.h \
+  /React-Native-Work/ARWorksPOC/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Config.h \
+  /React-Native-Work/ARWorksPOC/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CPortability.h \
+  /React-Native-Work/ARWorksPOC/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Utility.h \
+  /React-Native-Work/ARWorksPOC/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Traits.h \
+  /React-Native-Work/ARWorksPOC/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Assume.h \
+  /React-Native-Work/ARWorksPOC/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Builtins.h \
+  /React-Native-Work/ARWorksPOC/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Likely.h \
+  /React-Native-Work/ARWorksPOC/node_modules/react-native/third-party/folly-2018.10.22.00/folly/ScopeGuard.h \
+  /React-Native-Work/ARWorksPOC/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Preprocessor.h \
+  /React-Native-Work/ARWorksPOC/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/UncaughtExceptions.h \
+  /React-Native-Work/ARWorksPOC/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/ApplyTuple.h \
+  /React-Native-Work/ARWorksPOC/node_modules/react-native/third-party/folly-2018.10.22.00/folly/functional/Invoke.h \
+  /React-Native-Work/ARWorksPOC/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Align.h \
+  /React-Native-Work/ARWorksPOC/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Exception.h \
+  /React-Native-Work/ARWorksPOC/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CppAttributes.h \
+  /React-Native-Work/ARWorksPOC/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/Launder.h \
+  /React-Native-Work/ARWorksPOC/node_modules/react-native/third-party/folly-2018.10.22.00/folly/lang/SafeAssert.h \
+  /React-Native-Work/ARWorksPOC/node_modules/react-native/third-party/folly-2018.10.22.00/folly/container/detail/F14Defaults.h \
+  /React-Native-Work/ARWorksPOC/node_modules/react-native/third-party/folly-2018.10.22.00/folly/container/detail/F14IntrinsicsAvailability.h
